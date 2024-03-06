@@ -1,0 +1,15 @@
+{
+  "domain": "power_watchdog",
+  "name": "power watchdog reader",
+  "codeowners": [
+    "@hpf3"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/power_watchdog",
+  "homekit": {},
+  "iot_class": "local_push",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
